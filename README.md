@@ -21,3 +21,14 @@
 ## Descrição 
 Portfólio referente ao aluno Arthur Marques da silva da turma 2°B da escola S 2022 
 este portfólio terá todas as atividades referentes ao curso tecnico do 2° e 3°ano
+
+## Atividades
+
+[Atividade de fixação](https://docs.google.com/document/d/1esib6y_oO0WbA89ndd9FSyhDeI3q3bs74PMm8MBb7vM/edit?usp=sharing)
+
+* ativida de fixação vim
+</spam>
+
+![VirtualBox_Ubuntu_21_03_2022_11_13_20](https://user-images.githubusercontent.com/102531812/165106402-b6de7cba-a7fb-41eb-9375-d0730b1df544.png)
+
+[Atividade de fixação redirecionamento e encadeamento de comandos](https://docs.google.com/document/d/1ytw2fGHILFncNcibEGJMVSNaUX_AkHghkUo2h4rgaRE/edit?usp=sharing)
