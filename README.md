@@ -8,7 +8,7 @@
 **jogos mais jogados atualmente**
 
 * Rainbow six siege
-* valorant 
+* VALORANT 
 * cube escape(coleção inteira)  
 
 **filmes/ series que assisti a pouco tempo**
