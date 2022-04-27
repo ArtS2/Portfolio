@@ -31,4 +31,4 @@ este portfólio terá todas as atividades referentes ao curso tecnico do 2° e 3
 
 ![VirtualBox_Ubuntu_21_03_2022_11_13_20](https://user-images.githubusercontent.com/102531812/165106402-b6de7cba-a7fb-41eb-9375-d0730b1df544.png)
 
-[Atividade de fixação redirecionamento e encadeamento de comandos](https://docs.google.com/document/d/1ytw2fGHILFncNcibEGJMVSNaUX_AkHghkUo2h4rgaRE/edit?usp=sharing)
+[Atividade de fixação redirecionamento e encadeamento de comandos](https://docs.google.com/document/d/1DGgqR_Cr0g_u84y90OLvUUIR66cUFeWB6PFuKn5yBCE/edit?usp=sharing)
