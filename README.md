@@ -24,7 +24,7 @@ este portfólio terá todas as atividades referentes ao curso tecnico do 2° e 3
 
 ## Atividades
 
-[Atividade de fixação](https://docs.google.com/document/d/1esib6y_oO0WbA89ndd9FSyhDeI3q3bs74PMm8MBb7vM/edit?usp=sharing)
+[Atividade de fixação](https://docs.google.com/document/d/1XSdo1xjiqIMq_jkBkLCcyuqnS6Ee9T0blLgIvL55CeA/edit?usp=sharing)
 
 * ativida de fixação vim
 </spam>
