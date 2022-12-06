@@ -50,5 +50,47 @@ https://docs.google.com/document/d/10-lP_7aUkKwpXIJBDNjU99ywsGUD0IXnGRrfLzDYW-A/
 * Sinaleira - arduino simulação
 https://docs.google.com/document/d/1WRSMvbH5wR5StZp5ZUGhVSbxpsY6RGXjhHst3yFfDSE/edit?usp=sharing
 
+# Atividadees 3° Trismestre
 
+ *Chave Estrangeira e Manipulação de dados
 
+CREATE TABLE alunos(
+  nome int NOT NULL,
+  idade int NOT NULL,
+  matricula int NOT NULL,
+  PRIMARY KEY (matricula)
+  )
+  
+  CREATE TABLE professores(
+  nome int NOT NULL,
+  idade int NOT NULL,
+  matricula int NOT NULL,
+  PRIMARY KEY (matricula)
+  )
+  
+  CREATE TABLE pais(
+    nome int NOT NULL,
+    cpf int NOT NULL,
+    dinheiro int NOT NULL,
+    filho int NOT NULL,
+    PRIMARY KEY (cpf)
+    )
+    FOREIGN key (filho)
+    REFERENCES alunos(matricula)
+    
+    
+    CREATE TABLE salaDeAula(
+      numero int NOT NULL,
+      quadro int not NULL,
+      mesas int not NULL,
+      PRIMARY KEY (numero)
+      )
+
+* Academia sesi
+ https://github.com/doggrush/AcademiaSESI
+ (coloquei o link do augusto pois não consegui baixar os arquios, obrigado pela compreensão)
+
+# Autorias
+ *3trismestre
+ https://docs.google.com/document/d/1WcoS5wS5iolwtYGI59RcZiLVcDYsqLkk7smSVI-RyXo/edit?usp=sharing
+ 
