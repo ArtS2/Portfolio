@@ -94,3 +94,6 @@ CREATE TABLE alunos(
  *3trismestre
  https://docs.google.com/document/d/1WcoS5wS5iolwtYGI59RcZiLVcDYsqLkk7smSVI-RyXo/edit?usp=sharing
  
+______________________________
+
+### Atividades 3° ano 1° Trimestre
