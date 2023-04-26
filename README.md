@@ -97,3 +97,11 @@ CREATE TABLE alunos(
 ______________________________
 
 # Atividades 3° ano 1° Trimestre
+
+* Protótipo e propaganda
+  https://www.figma.com/proto/rPyW2P3NsN38gEh2ZTA796/FinanciInvest?scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A143&node-id=1-143
+  https://www.canva.com/design/DAFgi11rRY8/lMsCl_uIdoUhidAlKmRQEg/view?utm_content=DAFgi11rRY8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
+  
+* Testes de Sistemas
+
+https://docs.google.com/document/d/1Rig2bTxx_n_u2iFKPpt5gT2iL41ywdNnXS3SL87aXio/edit?usp=sharing
