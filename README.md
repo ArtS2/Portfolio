@@ -50,7 +50,7 @@ https://docs.google.com/document/d/10-lP_7aUkKwpXIJBDNjU99ywsGUD0IXnGRrfLzDYW-A/
 * Sinaleira - arduino simulação
 https://docs.google.com/document/d/1WRSMvbH5wR5StZp5ZUGhVSbxpsY6RGXjhHst3yFfDSE/edit?usp=sharing
 
-# Atividadees 3° Trismestre
+# Atividades 3° Trismestre
 
  *Chave Estrangeira e Manipulação de dados
 
@@ -96,4 +96,4 @@ CREATE TABLE alunos(
  
 ______________________________
 
-### Atividades 3° ano 1° Trimestre
+# Atividades 3° ano 1° Trimestre
