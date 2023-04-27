@@ -114,4 +114,6 @@ link: https://docs.google.com/spreadsheets/d/1h-mFrmA-WkI_r-0e9R65zrPAFDrA0JaXXo
  
  link: https://www.canva.com/design/DAFgi11rRY8/lMsCl_uIdoUhidAlKmRQEg/view?utm_content=DAFgi11rRY8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
  
+* Autoria de IMC
 
+link: https://drive.google.com/file/d/1x3WXvTqs65fsSqKg4mOt4Jgt2poWs2gc/view?usp=share_link
