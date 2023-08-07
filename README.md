@@ -21,4 +21,13 @@
 ## Descrição 
 Portfólio referente ao aluno Arthur Marques da silva da turma 2°B da escola S 2022 
 este portfólio terá todas as atividades referentes ao curso tecnico do 2° e 3°ano
-##
+
+# 2° ano
+link: https://github.com/ArtS2/Portfolio/tree/main/2%C2%B0%20Ano
+
+# 3° ano
+## 1° Trimestre
+link: https://github.com/ArtS2/Portfolio/tree/main/3%C2%B0%20ano/1%C2%B0%20Trimestre
+
+## 2° Trimestre
+link: https://github.com/ArtS2/Portfolio/tree/main/3%C2%B0%20ano/1%C2%B0%20Trimestre
